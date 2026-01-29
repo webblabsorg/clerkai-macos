@@ -1,0 +1,58 @@
+/* Clerk Legal AI - Content Script Styles */
+
+.clerk-highlight {
+  background-color: rgba(102, 126, 234, 0.3);
+  border-bottom: 2px solid #667eea;
+  padding: 2px 0;
+}
+
+.clerk-tooltip {
+  position: absolute;
+  background: #1a1a2e;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 999999;
+  max-width: 300px;
+}
+
+.clerk-tooltip::before {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #1a1a2e;
+}
+
+.clerk-selection-menu {
+  position: absolute;
+  background: #1a1a2e;
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  gap: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 999999;
+}
+
+.clerk-selection-menu button {
+  background: transparent;
+  border: none;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  transition: background 0.2s;
+}
+
+.clerk-selection-menu button:hover {
+  background: rgba(102, 126, 234, 0.3);
+}

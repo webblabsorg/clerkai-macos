@@ -1,0 +1,486 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "app.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Clerk" } }
+      }
+    },
+    "app.tagline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "AI Legal Assistant" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Asistente Legal IA" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Assistant Juridique IA" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "KI-Rechtsassistent" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Assistente Jurídico IA" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "AI法律助手" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "AI法律アシスタント" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AI 법률 어시스턴트" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Assistente Legale IA" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "AI Juridisch Assistent" } }
+      }
+    },
+    "common.cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Cancel" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cancelar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Annuler" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Abbrechen" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Cancelar" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "取消" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "キャンセル" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "취소" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Annulla" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Annuleren" } }
+      }
+    },
+    "common.confirm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Confirm" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Confirmar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Confirmer" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bestätigen" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Confirmar" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "确认" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "確認" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "확인" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Conferma" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Bevestigen" } }
+      }
+    },
+    "common.save" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Guardar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Enregistrer" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Speichern" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Salvar" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "保存" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "保存" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "저장" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Salva" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Opslaan" } }
+      }
+    },
+    "common.close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Close" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cerrar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Fermer" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Schließen" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Fechar" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "关闭" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "閉じる" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "닫기" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Chiudi" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Sluiten" } }
+      }
+    },
+    "common.search" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Search" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Buscar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Rechercher" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Suchen" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Pesquisar" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "搜索" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "検索" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "검색" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cerca" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Zoeken" } }
+      }
+    },
+    "common.loading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Loading..." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cargando..." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Chargement..." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Laden..." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Carregando..." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "加载中..." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "読み込み中..." } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "로딩 중..." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Caricamento..." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Laden..." } }
+      }
+    },
+    "auth.signIn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Sign In" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Iniciar Sesión" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Se Connecter" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Anmelden" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Entrar" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "登录" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "サインイン" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "로그인" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Accedi" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Inloggen" } }
+      }
+    },
+    "auth.signOut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Sign Out" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cerrar Sesión" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Se Déconnecter" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Abmelden" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Sair" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "退出" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "サインアウト" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "로그아웃" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Esci" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Uitloggen" } }
+      }
+    },
+    "auth.email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Email" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Correo Electrónico" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "E-mail" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "E-Mail" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "E-mail" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "电子邮件" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "メール" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이메일" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "E-mail" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "E-mail" } }
+      }
+    },
+    "auth.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Password" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Contraseña" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Mot de Passe" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Passwort" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Senha" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "密码" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "パスワード" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "비밀번호" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Password" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Wachtwoord" } }
+      }
+    },
+    "tools.search.placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Search 301 legal tools..." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Buscar 301 herramientas legales..." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Rechercher 301 outils juridiques..." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "301 Rechtswerkzeuge durchsuchen..." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Pesquisar 301 ferramentas jurídicas..." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "搜索301个法律工具..." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "301の法律ツールを検索..." } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "301개 법률 도구 검색..." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Cerca 301 strumenti legali..." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Zoek 301 juridische tools..." } }
+      }
+    },
+    "tools.suggested" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Suggested for You" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Sugerido para Ti" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Suggéré pour Vous" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Für Sie Empfohlen" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Sugerido para Você" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "为您推荐" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "おすすめ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "추천 도구" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Suggeriti per Te" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Aanbevolen voor Jou" } }
+      }
+    },
+    "tools.recent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Recent" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Recientes" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Récents" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Zuletzt Verwendet" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Recentes" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "最近使用" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "最近" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최근" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Recenti" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Recent" } }
+      }
+    },
+    "tools.favorites" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Favorites" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Favoritos" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Favoris" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Favoriten" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Favoritos" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "收藏" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "お気に入り" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "즐겨찾기" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Preferiti" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Favorieten" } }
+      }
+    },
+    "tools.categories" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Categories" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Categorías" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Catégories" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Kategorien" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Categorias" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "分类" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "カテゴリ" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "카테고리" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Categorie" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Categorieën" } }
+      }
+    },
+    "execution.running" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Running..." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Ejecutando..." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "En cours..." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wird ausgeführt..." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Executando..." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "运行中..." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "実行中..." } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "실행 중..." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "In esecuzione..." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Bezig..." } }
+      }
+    },
+    "execution.completed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Completed" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Completado" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Terminé" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Abgeschlossen" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Concluído" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已完成" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "完了" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "완료" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Completato" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Voltooid" } }
+      }
+    },
+    "execution.failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Failed" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Error" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Échec" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Fehlgeschlagen" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Falhou" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "失败" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "失敗" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "실패" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Fallito" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Mislukt" } }
+      }
+    },
+    "settings.general" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "General" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "General" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Général" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Allgemein" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Geral" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "通用" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一般" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "일반" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Generale" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Algemeen" } }
+      }
+    },
+    "settings.appearance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Appearance" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Apariencia" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Apparence" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Erscheinungsbild" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Aparência" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "外观" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "外観" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모양" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Aspetto" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Uiterlijk" } }
+      }
+    },
+    "settings.hotkeys" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Keyboard Shortcuts" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Atajos de Teclado" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Raccourcis Clavier" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Tastaturkürzel" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Atalhos de Teclado" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "键盘快捷键" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "キーボードショートカット" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "키보드 단축키" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Scorciatoie da Tastiera" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Sneltoetsen" } }
+      }
+    },
+    "settings.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Account" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cuenta" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Compte" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Konto" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Conta" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "账户" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "アカウント" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "계정" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Account" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Account" } }
+      }
+    },
+    "settings.language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Language" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Idioma" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Langue" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Sprache" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Idioma" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "语言" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "言語" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "언어" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Lingua" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Taal" } }
+      }
+    },
+    "error.network" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Network error. Please check your connection." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Error de red. Por favor, verifica tu conexión." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Erreur réseau. Veuillez vérifier votre connexion." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Erro de rede. Por favor, verifique sua conexão." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "网络错误。请检查您的连接。" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ネットワークエラー。接続を確認してください。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "네트워크 오류. 연결을 확인하세요." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Errore di rete. Controlla la tua connessione." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Netwerkfout. Controleer uw verbinding." } }
+      }
+    },
+    "error.unauthorized" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Please sign in to continue." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Por favor, inicia sesión para continuar." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Veuillez vous connecter pour continuer." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bitte melden Sie sich an, um fortzufahren." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Por favor, faça login para continuar." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "请登录以继续。" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "続行するにはサインインしてください。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "계속하려면 로그인하세요." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Accedi per continuare." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Log in om door te gaan." } }
+      }
+    },
+    "error.generic" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Something went wrong. Please try again." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Algo salió mal. Por favor, inténtalo de nuevo." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Une erreur s'est produite. Veuillez réessayer." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Algo deu errado. Por favor, tente novamente." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "出了点问题。请重试。" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "問題が発生しました。もう一度お試しください。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "문제가 발생했습니다. 다시 시도하세요." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Qualcosa è andato storto. Riprova." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Er is iets misgegaan. Probeer het opnieuw." } }
+      }
+    },
+    "permissions.accessibility.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Accessibility Permission Required" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Permiso de Accesibilidad Requerido" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Autorisation d'Accessibilité Requise" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bedienungshilfen-Berechtigung Erforderlich" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Permissão de Acessibilidade Necessária" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "需要辅助功能权限" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "アクセシビリティ権限が必要です" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한 필요" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Autorizzazione Accessibilità Richiesta" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Toegankelijkheidsmachtiging Vereist" } }
+      }
+    },
+    "permissions.accessibility.message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clerk needs accessibility access to detect context from your documents." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Clerk necesita acceso de accesibilidad para detectar contexto de tus documentos." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Clerk a besoin de l'accès d'accessibilité pour détecter le contexte de vos documents." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Clerk benötigt Bedienungshilfen-Zugriff, um Kontext aus Ihren Dokumenten zu erkennen." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Clerk precisa de acesso de acessibilidade para detectar contexto dos seus documentos." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "Clerk需要辅助功能访问权限来检测您文档中的上下文。" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "Clerkはドキュメントからコンテキストを検出するためにアクセシビリティアクセスが必要です。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "Clerk은 문서에서 컨텍스트를 감지하기 위해 손쉬운 사용 접근 권한이 필요합니다." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Clerk ha bisogno dell'accesso all'accessibilità per rilevare il contesto dai tuoi documenti." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Clerk heeft toegankelijkheidstoegang nodig om context uit uw documenten te detecteren." } }
+      }
+    },
+    "permissions.inputMonitoring.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Input Monitoring Permission" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Permiso de Monitoreo de Entrada" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Autorisation de Surveillance des Entrées" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Eingabeüberwachung-Berechtigung" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Permissão de Monitoramento de Entrada" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "输入监控权限" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "入力監視権限" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "입력 모니터링 권한" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Autorizzazione Monitoraggio Input" } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Invoermonitoring Machtiging" } }
+      }
+    },
+    "permissions.inputMonitoring.message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clerk needs input monitoring to enable global keyboard shortcuts." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Clerk necesita monitoreo de entrada para habilitar atajos de teclado globales." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Clerk a besoin de la surveillance des entrées pour activer les raccourcis clavier globaux." } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Clerk benötigt Eingabeüberwachung, um globale Tastaturkürzel zu aktivieren." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Clerk precisa de monitoramento de entrada para habilitar atalhos de teclado globais." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "Clerk需要输入监控权限来启用全局键盘快捷键。" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "Clerkはグローバルキーボードショートカットを有効にするために入力監視が必要です。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "Clerk은 전역 키보드 단축키를 활성화하기 위해 입력 모니터링이 필요합니다." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Clerk ha bisogno del monitoraggio input per abilitare le scorciatoie da tastiera globali." } },
+        "nl" : { "stringUnit" : { "state" : "translated", "value" : "Clerk heeft invoermonitoring nodig om globale sneltoetsen in te schakelen." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "com.clerk.legal.native",
+  "description": "Clerk Legal AI Native Messaging Host",
+  "path": "/Applications/Clerk.app/Contents/MacOS/ClerkNativeHost",
+  "type": "stdio",
+  "allowed_extensions": [
+    "clerk@clerk.legal"
+  ]
+}

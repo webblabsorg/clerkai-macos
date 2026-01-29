@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Sparkle Configuration -->
+    
+    <!-- Appcast URL - where update information is fetched from -->
+    <key>SUFeedURL</key>
+    <string>https://clerk.legal/appcast.xml</string>
+    
+    <!-- EdDSA public key for update verification -->
+    <!-- Generate with: ./bin/generate_keys -->
+    <!-- Store private key securely, never commit it -->
+    <key>SUPublicEDKey</key>
+    <string>YOUR_EDDSA_PUBLIC_KEY_HERE</string>
+    
+    <!-- Enable automatic update checks -->
+    <key>SUEnableAutomaticChecks</key>
+    <true/>
+    
+    <!-- Check for updates every 24 hours (in seconds) -->
+    <key>SUScheduledCheckInterval</key>
+    <integer>86400</integer>
+    
+    <!-- Allow users to check for updates manually -->
+    <key>SUAllowsAutomaticUpdates</key>
+    <true/>
+    
+    <!-- Show release notes in update dialog -->
+    <key>SUShowReleaseNotes</key>
+    <true/>
+    
+    <!-- Send anonymous system profile with update checks -->
+    <key>SUSendProfileInfo</key>
+    <false/>
+</dict>
+</plist>

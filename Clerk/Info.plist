@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.clerk.legal</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Clerk</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>12.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAccessibilityUsageDescription</key>
+    <string>Clerk needs accessibility access to detect context from your documents and provide relevant legal AI tools.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Clerk needs to communicate with other applications to provide context-aware assistance.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Clerk needs microphone access to transcribe your voice into text for hands-free legal document creation.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Clerk uses speech recognition to convert your voice into text, allowing you to dictate legal documents and commands.</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2026 Clerk Legal AI. All rights reserved.</string>
+    <key>NSMainStoryboardFile</key>
+    <string></string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSSupportsAutomaticTermination</key>
+    <true/>
+    <key>NSSupportsSuddenTermination</key>
+    <true/>
+    <key>SUFeedURL</key>
+    <string>https://clerk.legal/appcast.xml</string>
+    <key>SUPublicEDKey</key>
+    <string></string>
+</dict>
+</plist>
