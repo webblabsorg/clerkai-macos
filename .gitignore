@@ -1,0 +1,18 @@
+# Build artifacts
+.build/
+.swiftpm/
+DerivedData/
+Package.resolved
+
+# Xcode
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+
+# macOS
+.DS_Store
+*.dSYM
+
+# IDE
+.idea/
+*.swp
