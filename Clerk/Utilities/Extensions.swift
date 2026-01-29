@@ -20,13 +20,6 @@ extension String {
         return String(prefix(length)) + trailing
     }
     
-    var localized: String {
-        NSLocalizedString(self, comment: "")
-    }
-    
-    func localized(with arguments: CVarArg...) -> String {
-        String(format: localized, arguments: arguments)
-    }
 }
 
 // MARK: - Date Extensions

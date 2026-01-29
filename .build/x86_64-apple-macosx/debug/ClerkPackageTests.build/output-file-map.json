@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/ClerkPackageTests.build/master.swiftdeps"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/ClerkPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/ClerkPackageTests.build/runner.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/ClerkPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/ClerkPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/ClerkPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/ClerkPackageTests.build/runner.dia"
+  }
+}

@@ -9,13 +9,17 @@ final class LocalizationService {
     @Published private(set) var currentLocale: Locale
     
     private var translations: [String: [String: Any]] = [:]
-    private let defaults = UserDefaultsManager.shared
+    private let defaults: UserDefaultsManager
     
     private init() {
+        // Initialize defaults first
+        defaults = UserDefaultsManager.shared
+        
         // Load preferred language or detect from system
         let preferredCode = defaults.preferredLanguage
-        currentLanguage = Language.find(byCode: preferredCode) ?? Language.allSupported.first!
-        currentLocale = Locale(identifier: currentLanguage.code)
+        let language = Language.find(byCode: preferredCode) ?? Language.allSupported.first!
+        currentLanguage = language
+        currentLocale = Locale(identifier: language.code)
         
         loadTranslations()
     }

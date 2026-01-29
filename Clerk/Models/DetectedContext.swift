@@ -15,7 +15,7 @@ struct DetectedContext: Codable, Equatable {
 
 enum SourceApp: String, Codable, CaseIterable {
     case microsoftWord = "com.microsoft.Word"
-    case googleDocs = "com.google.Chrome" // Web-based
+    case googleDocs = "com.google.docs.web" // Web-based - use unique identifier
     case pages = "com.apple.iWork.Pages"
     case preview = "com.apple.Preview"
     case adobeAcrobat = "com.adobe.Acrobat.Pro"

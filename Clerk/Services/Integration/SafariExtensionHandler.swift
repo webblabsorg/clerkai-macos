@@ -1,4 +1,5 @@
 import Foundation
+import AppKit
 
 /// Safari App Extension Handler stub
 /// 

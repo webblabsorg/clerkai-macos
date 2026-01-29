@@ -86,8 +86,8 @@ struct ReducedMotionModifier: ViewModifier {
 }
 
 extension View {
-    func accessibleAnimation(_ animation: Animation, reduced: Animation = .none) -> some View {
-        modifier(ReducedMotionModifier(animation: animation, reducedAnimation: reduced))
+    func accessibleAnimation(_ animation: Animation, reduced: Animation? = nil) -> some View {
+        modifier(ReducedMotionModifier(animation: animation, reducedAnimation: reduced ?? .default))
     }
 }
 

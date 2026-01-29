@@ -1,4 +1,5 @@
 import Foundation
+import AppKit
 
 /// Native Messaging Host for Chrome/Firefox/Edge browser extensions
 /// 

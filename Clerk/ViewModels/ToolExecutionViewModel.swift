@@ -1,5 +1,6 @@
 import Foundation
 import Combine
+import AppKit
 
 /// ViewModel for tool execution
 @MainActor

@@ -100,9 +100,9 @@ public final class DictationService: ObservableObject {
     
     /// Start listening and transcribing speech
     public func startListening() async throws {
-        guard isAuthorized else {
+        if !isAuthorized {
             let authorized = await requestAuthorization()
-            guard authorized else {
+            if !authorized {
                 throw DictationError.notAuthorized
             }
         }

@@ -63,6 +63,7 @@ final class Logger {
         case .ai: return aiLog
         case .context: return contextLog
         case .auth: return authLog
+        case .storage: return generalLog
         }
     }
     
@@ -103,6 +104,7 @@ enum LogCategory: String {
     case ai
     case context
     case auth
+    case storage
 }
 
 // MARK: - Global Convenience Functions

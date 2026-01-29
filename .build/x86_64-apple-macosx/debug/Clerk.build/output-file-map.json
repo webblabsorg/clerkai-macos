@@ -1,0 +1,453 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/master.swiftdeps"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/App/AppState.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppState.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppState.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppState.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppState.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/App/ClerkApp.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClerkApp.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClerkApp.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClerkApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClerkApp.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClerkApp.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/App/FloatingPanel.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/FloatingPanel.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/FloatingPanel.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/FloatingPanel~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/FloatingPanel.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/FloatingPanel.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/App/HotKeyManager.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HotKeyManager.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HotKeyManager.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HotKeyManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HotKeyManager.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HotKeyManager.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Models/DetectedContext.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DetectedContext.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DetectedContext.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DetectedContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DetectedContext.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DetectedContext.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Models/Language.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Language.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Language.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Language~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Language.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Language.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Models/PersistentModels.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PersistentModels.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PersistentModels.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PersistentModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PersistentModels.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PersistentModels.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Models/Tool.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Tool.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Tool.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Tool~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Tool.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Tool.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Models/ToolExecution.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecution.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecution.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecution~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecution.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecution.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Models/UsageStats.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UsageStats.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UsageStats.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UsageStats~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UsageStats.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UsageStats.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Models/User.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/User.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/User.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/User.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/User.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/AIProvider.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIProvider.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIProvider.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIProvider.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIProvider.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/AIService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/AIServiceManager.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIServiceManager.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIServiceManager.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIServiceManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIServiceManager.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AIServiceManager.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/AnthropicProvider.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnthropicProvider.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnthropicProvider.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnthropicProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnthropicProvider.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnthropicProvider.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/GoogleProvider.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/GoogleProvider.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/GoogleProvider.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/GoogleProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/GoogleProvider.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/GoogleProvider.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/OpenAIProvider.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OpenAIProvider.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OpenAIProvider.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OpenAIProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OpenAIProvider.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OpenAIProvider.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/OutputFormatter.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OutputFormatter.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OutputFormatter.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OutputFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OutputFormatter.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OutputFormatter.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/PromptTemplates.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PromptTemplates.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PromptTemplates.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PromptTemplates~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PromptTemplates.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PromptTemplates.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AI/ToolExecutionEngine.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionEngine.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionEngine.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionEngine.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionEngine.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/AuthService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AuthService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AuthService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AuthService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AuthService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AuthService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Context/AccessibilityService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Context/AppMonitorService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppMonitorService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppMonitorService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppMonitorService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppMonitorService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppMonitorService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Context/ClipboardService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClipboardService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClipboardService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClipboardService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClipboardService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ClipboardService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Context/ContextDetectionService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextDetectionService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextDetectionService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextDetectionService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextDetectionService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextDetectionService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Context/ContextEngine.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextEngine.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextEngine.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextEngine.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ContextEngine.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Context/DocumentAnalyzer.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DocumentAnalyzer.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DocumentAnalyzer.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DocumentAnalyzer~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DocumentAnalyzer.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DocumentAnalyzer.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Context/SelectionService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SelectionService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SelectionService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SelectionService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SelectionService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SelectionService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/DictationService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/ExportService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExportService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExportService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExportService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExportService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExportService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/HistoryService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HistoryService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HistoryService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HistoryService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HistoryService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/HistoryService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/BrowserExtensionProtocol.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserExtensionProtocol.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserExtensionProtocol.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserExtensionProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserExtensionProtocol.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserExtensionProtocol.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/BrowserIntegration.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserIntegration.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserIntegration.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserIntegration~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserIntegration.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/BrowserIntegration.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/EmailIntegration.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmailIntegration.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmailIntegration.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmailIntegration~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmailIntegration.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmailIntegration.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/IntegrationManager.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/IntegrationManager.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/IntegrationManager.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/IntegrationManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/IntegrationManager.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/IntegrationManager.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/NativeMessagingHost.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/NativeMessagingHost.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/NativeMessagingHost.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/NativeMessagingHost~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/NativeMessagingHost.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/NativeMessagingHost.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/PDFIntegration.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PDFIntegration.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PDFIntegration.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PDFIntegration~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PDFIntegration.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/PDFIntegration.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/SafariExtensionHandler.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SafariExtensionHandler.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SafariExtensionHandler.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SafariExtensionHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SafariExtensionHandler.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SafariExtensionHandler.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Integration/WordIntegration.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/WordIntegration.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/WordIntegration.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/WordIntegration~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/WordIntegration.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/WordIntegration.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/LocalizationService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LocalizationService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LocalizationService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LocalizationService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LocalizationService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LocalizationService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Network/APIClient.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/APIClient.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/APIClient.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/APIClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/APIClient.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/APIClient.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/OfflineQueueService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OfflineQueueService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OfflineQueueService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OfflineQueueService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OfflineQueueService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OfflineQueueService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Storage/KeychainManager.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/KeychainManager.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/KeychainManager.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/KeychainManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/KeychainManager.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/KeychainManager.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/Storage/UserDefaultsManager.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UserDefaultsManager.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UserDefaultsManager.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UserDefaultsManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UserDefaultsManager.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/UserDefaultsManager.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Services/ToolService.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolService.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolService.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolService~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolService.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolService.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Utilities/AccessibilityHelpers.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityHelpers.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityHelpers.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityHelpers.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AccessibilityHelpers.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Utilities/AppleScriptRunner.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppleScriptRunner.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppleScriptRunner.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppleScriptRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppleScriptRunner.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AppleScriptRunner.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Utilities/ErrorHandler.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ErrorHandler.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ErrorHandler.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ErrorHandler.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ErrorHandler.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Utilities/Extensions.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Extensions.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Extensions.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Extensions.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Extensions.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Utilities/Logger.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Logger.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Logger.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Logger.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/Logger.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/ViewModels/ExpandedPanelViewModel.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelViewModel.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelViewModel.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelViewModel.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelViewModel.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/ViewModels/ToolExecutionViewModel.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionViewModel.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionViewModel.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionViewModel.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionViewModel.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Avatar/AvatarView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AvatarView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AvatarView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AvatarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AvatarView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AvatarView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Compact/CompactToolbarView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/CompactToolbarView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/CompactToolbarView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/CompactToolbarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/CompactToolbarView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/CompactToolbarView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Components/AnimatedComponents.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnimatedComponents.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnimatedComponents.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnimatedComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnimatedComponents.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/AnimatedComponents.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Components/DictationButton.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationButton.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationButton.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationButton.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/DictationButton.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Components/EmptyStateView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmptyStateView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmptyStateView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmptyStateView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmptyStateView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/EmptyStateView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Components/LoadingView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LoadingView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LoadingView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LoadingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LoadingView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/LoadingView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Components/MarkdownView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MarkdownView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MarkdownView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MarkdownView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MarkdownView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MarkdownView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Expanded/ExpandedPanelView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ExpandedPanelView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/MainContentView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MainContentView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MainContentView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MainContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MainContentView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/MainContentView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Onboarding/OnboardingView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OnboardingView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OnboardingView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OnboardingView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/OnboardingView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/Settings/SettingsView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SettingsView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/SettingsView.dia"
+  },
+  "/Users/aa/Documents/Projects/clerk/dev/macos/Clerk/Views/ToolExecution/ToolExecutionView.swift": {
+    "dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionView.d",
+    "object": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionView.swift.o",
+    "swiftmodule": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionView.swiftdeps",
+    "diagnostics": "/Users/aa/Documents/Projects/clerk/dev/macos/.build/x86_64-apple-macosx/debug/Clerk.build/ToolExecutionView.dia"
+  }
+}

@@ -362,5 +362,3 @@ struct UsageLogPayload: Codable {
         let metadata: [String: String]?
     }
 }
-
-struct EmptyResponse: Codable {}
